@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vikas-portfolio-/static/css/main.41313f7c.css",
+    "main.css": "/vikas-portfolio-/static/css/main.0ffe105d.css",
     "main.js": "/vikas-portfolio-/static/js/main.f7835143.js",
     "static/js/415.4d6acbeb.chunk.js": "/vikas-portfolio-/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/vikas-portfolio-/static/js/787.1ed0c42c.chunk.js",
@@ -18,13 +18,13 @@
     "static/media/home-bg.jpg": "/vikas-portfolio-/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/vikas-portfolio-/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/vikas-portfolio-/index.html",
-    "main.41313f7c.css.map": "/vikas-portfolio-/static/css/main.41313f7c.css.map",
+    "main.0ffe105d.css.map": "/vikas-portfolio-/static/css/main.0ffe105d.css.map",
     "main.f7835143.js.map": "/vikas-portfolio-/static/js/main.f7835143.js.map",
     "415.4d6acbeb.chunk.js.map": "/vikas-portfolio-/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/vikas-portfolio-/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41313f7c.css",
+    "static/css/main.0ffe105d.css",
     "static/js/main.f7835143.js"
   ]
 }
