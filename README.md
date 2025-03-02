@@ -17,7 +17,7 @@ Hi, I'm **Vikas Prajapati** (`techvikas20`), a passionate developer who loves bu
 
 Check out my live portfolio to see my projects and skills in action:
 
-👉 [Live Portfolio](https://techvikas20.github.io/my-portfolio)
+👉 [Live Portfolio](https://techvikas20.github.io/vikas-portfolio-)
 
 ---
 
